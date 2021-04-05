@@ -1,0 +1,41 @@
+body {
+  background-color: #eaf6f6;
+  background-color: rgb(195, 236, 195);
+}
+
+h1 {
+  color: #0073a0;
+}
+
+h2 {
+  color: #388aac;
+}
+
+
+h3 {
+  color: #488aac;
+}
+
+h4 {
+  color: #588aac;
+}
+
+h5 {
+  color: #688aac;
+}
+
+
+h6 {
+  color: #788aac;
+}
+
+
+hr {
+  border-style: dotted none none none;
+  border-color: rgb(170, 169, 169);
+  border-width: 8px;
+  height: 0px;
+  width: 3%;
+}
+
+
